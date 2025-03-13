@@ -1,4 +1,4 @@
-## Metro Navigation System 
+# # Metro Navigation System 
 
 # Overview
 This project is a Python-based Metro Navigation System designed to help users find the shortest path between two metro stations in Bangalore's metro network. It utilizes graph algorithms, specifically Dijkstra's Algorithm, to compute the most efficient travel route while also calculating the total journey cost.
