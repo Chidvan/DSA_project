@@ -5,9 +5,13 @@ This project is a Python-based Metro Navigation System designed to help users fi
 
 # Features
 -Shortest Path Calculation – Finds the most efficient route between stations using Dijkstra's Algorithm.
+
 -Cost Estimation – Calculates the total travel cost based on the shortest distance.
+
 -Graph Representation – Models the metro system using graph data structures.
+
 -User-Friendly Input – Allows users to enter source and destination stations interactively.
+
 -Error Handling – Validates user inputs to ensure station names exist in the metro network.
 
 # Technologies Used
